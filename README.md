@@ -5,3 +5,6 @@ Datum a čas provedení změny: 2024-09-26; 13:28
 
 ## Změna provedena na lokálním počítači
 Datum a čas provedení změny: 2024-10-03; 13:02
+
+## změna provedena na Githubu
+Datum a čas provedení změny: 2024-10-03; 13:16

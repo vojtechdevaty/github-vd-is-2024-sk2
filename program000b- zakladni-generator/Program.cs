@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Specialized;
-using System.ComponentModel;
-using System.Security.Cryptography;
 
 class Program {
 
@@ -50,36 +48,11 @@ int[] myArray =  new int [n];
 // příprava pro generování náhodných čísel
 Random randomnumber = new Random();
 
-    int kladna =0;
-    int zaporna=0;
-    int nuly= 0;
-    
-    
     Console.WriteLine("Náhodná čísla: ");
     for(int i=0; i<n; i++){
-    myArray[i] = randomnumber.Next(dn, hn);
+    myArray[i] = randomnumber.Next(dn, hn+1);
     Console.Write("{0}; ", myArray[i]);
-
- //   if(myArray[i]>0);
- //       kladná++;
- //   if(myArray[i]<0);
- //       záporná++;
- //   if(myArray[i]=0);
- //       nuly++;
-
-                if(myArray[i]>0)
-                    kladna++;
-                else if(myArray[i]<0)
-                    zaporna++;
-                else
-                    nuly++;  
-
-
 }
-
-Console.WriteLine("Počet kladných: {0};", kladna);
-Console.WriteLine("Počet záporných: {0};", zaporna);    
-Console.WriteLine("Počet nul: {0};", nuly);
 
             
             // Opakování programu

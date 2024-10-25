@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\Nová složka\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj": {}
+    "C:\\is\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\Nová složka\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj": {
+    "C:\\is\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\Nová složka\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj",
+        "projectUniqueName": "C:\\is\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj",
         "projectName": "program004-generator",
-        "projectPath": "C:\\aaa\\IS-2024\\Nová složka\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\Nová složka\\github-vd-is-2024-sk2\\program004-generator\\obj\\",
+        "projectPath": "C:\\is\\github-vd-is-2024-sk2\\program004-generator\\program004-generator.csproj",
+        "packagesPath": "C:\\Users\\vojta\\.nuget\\packages\\",
+        "outputPath": "C:\\is\\github-vd-is-2024-sk2\\program004-generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

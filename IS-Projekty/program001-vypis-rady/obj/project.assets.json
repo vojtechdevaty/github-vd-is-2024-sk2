@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\vojta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\aaa\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\obj\\",
+      "projectPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "packagesPath": "C:\\Users\\vojta\\.nuget\\packages\\",
+      "outputPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,12 +59,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,3 +12,18 @@ C:\aaa\IS-2024\Nová složka\github-vd-is-2024-sk2\program004-generator\obj\Debu
 C:\aaa\IS-2024\Nová složka\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.pdb
 C:\aaa\IS-2024\Nová složka\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.genruntimeconfig.cache
 C:\aaa\IS-2024\Nová složka\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\ref\program004-generator.dll
+C:\is\github-vd-is-2024-sk2\program004-generator\bin\Debug\net7.0\program004-generator.exe
+C:\is\github-vd-is-2024-sk2\program004-generator\bin\Debug\net7.0\program004-generator.deps.json
+C:\is\github-vd-is-2024-sk2\program004-generator\bin\Debug\net7.0\program004-generator.runtimeconfig.json
+C:\is\github-vd-is-2024-sk2\program004-generator\bin\Debug\net7.0\program004-generator.dll
+C:\is\github-vd-is-2024-sk2\program004-generator\bin\Debug\net7.0\program004-generator.pdb
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.AssemblyInfoInputs.cache
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.AssemblyInfo.cs
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.csproj.CoreCompileInputs.cache
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.sourcelink.json
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.dll
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\refint\program004-generator.dll
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.pdb
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\program004-generator.genruntimeconfig.cache
+C:\is\github-vd-is-2024-sk2\program004-generator\obj\Debug\net7.0\ref\program004-generator.dll

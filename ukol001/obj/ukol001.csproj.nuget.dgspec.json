@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program003b=trojuhelnik\\program003b=trojuhelnik.csproj": {}
+    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol001\\ukol001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program003b=trojuhelnik\\program003b=trojuhelnik.csproj": {
+    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol001\\ukol001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program003b=trojuhelnik\\program003b=trojuhelnik.csproj",
-        "projectName": "program003b=trojuhelnik",
-        "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program003b=trojuhelnik\\program003b=trojuhelnik.csproj",
+        "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol001\\ukol001.csproj",
+        "projectName": "ukol001",
+        "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol001\\ukol001.csproj",
         "packagesPath": "C:\\Users\\VOJTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program003b=trojuhelnik\\obj\\",
+        "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VOJTA\\AppData\\Roaming\\NuGet\\NuGet.Config"

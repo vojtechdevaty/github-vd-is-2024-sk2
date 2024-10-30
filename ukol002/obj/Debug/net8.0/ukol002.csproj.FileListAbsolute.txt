@@ -1,0 +1,15 @@
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\bin\Debug\net8.0\ukol002.exe
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\bin\Debug\net8.0\ukol002.deps.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\bin\Debug\net8.0\ukol002.runtimeconfig.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\bin\Debug\net8.0\ukol002.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\bin\Debug\net8.0\ukol002.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.AssemblyInfoInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.AssemblyInfo.cs
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.csproj.CoreCompileInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.sourcelink.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\refint\ukol002.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ukol002.genruntimeconfig.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\ukol002\obj\Debug\net8.0\ref\ukol002.dll

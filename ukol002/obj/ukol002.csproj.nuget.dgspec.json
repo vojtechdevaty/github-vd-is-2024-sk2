@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj": {}
+    "C:\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj": {
+    "C:\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj",
+        "projectUniqueName": "C:\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj",
         "projectName": "ukol002",
-        "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj",
-        "packagesPath": "C:\\Users\\VOJTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\ukol002\\obj\\",
+        "projectPath": "C:\\is\\github-vd-is-2024-sk2\\ukol002\\ukol002.csproj",
+        "packagesPath": "C:\\Users\\vojta\\.nuget\\packages\\",
+        "outputPath": "C:\\is\\github-vd-is-2024-sk2\\ukol002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VOJTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

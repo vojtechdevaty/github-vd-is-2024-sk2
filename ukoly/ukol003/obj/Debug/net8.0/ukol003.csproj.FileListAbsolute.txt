@@ -1,0 +1,15 @@
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\bin\Debug\net8.0\ukol003.exe
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\bin\Debug\net8.0\ukol003.deps.json
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\bin\Debug\net8.0\ukol003.runtimeconfig.json
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\bin\Debug\net8.0\ukol003.dll
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\bin\Debug\net8.0\ukol003.pdb
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.GeneratedMSBuildEditorConfig.editorconfig
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.AssemblyInfoInputs.cache
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.AssemblyInfo.cs
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.csproj.CoreCompileInputs.cache
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.sourcelink.json
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.dll
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\refint\ukol003.dll
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.pdb
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ukol003.genruntimeconfig.cache
+C:\is\github-vd-is-2024-sk2\ukoly\ukol003\obj\Debug\net8.0\ref\ukol003.dll

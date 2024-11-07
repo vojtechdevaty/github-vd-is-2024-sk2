@@ -1,0 +1,15 @@
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\bin\Debug\net8.0\program005-maximum.exe
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\bin\Debug\net8.0\program005-maximum.deps.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\bin\Debug\net8.0\program005-maximum.runtimeconfig.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\bin\Debug\net8.0\program005-maximum.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\bin\Debug\net8.0\program005-maximum.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.AssemblyInfoInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.AssemblyInfo.cs
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.csproj.CoreCompileInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.sourcelink.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\refint\program005-maximum.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\program005-maximum.genruntimeconfig.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program005-maximum\obj\Debug\net8.0\ref\program005-maximum.dll

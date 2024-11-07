@@ -66,6 +66,7 @@ Random randomnumber = new Random();
         if(myArray[i] > max){
             max = myArray[i];
             maxIndex = i;
+            
 
         }
         if(myArray[i] < min){
@@ -81,7 +82,7 @@ Random randomnumber = new Random();
     Console.WriteLine("\n\n Maximum={0};na pozici {1} ", max, maxIndex);
         Console.WriteLine("\n\n Minimum{0} na pozici {1}", min, minIndex );
 
-
+        Console.WriteLine();
 
 
 

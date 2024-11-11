@@ -29,8 +29,10 @@ class Program {
 
 
 
-            string samohlasky= "aáeéiíyýoóuůúě";
+            string samohlasky= "aáeéiíyýoóuůúěAÁEÉIÍYÝOÓUŮÚĚ";
             string cislice= "1234567890";
+            string souhlasky = "hckrdtnžščřjďťňbflmpsvzHCKRDTNŽŠČŘJDŤŇBFLMPSVZ";
+           
 
             int pocetSamohlasek = 0;
             int pocetsouhlasek = 0;
@@ -47,10 +49,17 @@ class Program {
 
             pocetcislic++;
             }
+            if (souhlasky.Contains(znak))
+            {
+                pocetsouhlasek++;
+            }
+
 
         }
 
             Console.WriteLine("Počet číslic {0}",pocetcislic);
+             Console.WriteLine("Počet samohlasek {0}",pocetSamohlasek);
+             Console.WriteLine("Počet souhlasek {0}",pocetsouhlasek);
 
 
 

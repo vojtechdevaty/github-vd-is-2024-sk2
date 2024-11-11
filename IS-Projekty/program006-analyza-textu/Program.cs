@@ -37,6 +37,7 @@ class Program {
             int pocetSamohlasek = 0;
             int pocetsouhlasek = 0;
             int pocetcislic = 0;
+            int pocetostatnich =0;
 
 
             foreach ( char znak in myText)
@@ -49,9 +50,12 @@ class Program {
 
             pocetcislic++;
             }
-            if (souhlasky.Contains(znak))
+            else if (souhlasky.Contains(znak))
             {
                 pocetsouhlasek++;
+            }
+            else {
+                pocetostatnich++;
             }
 
 
@@ -60,6 +64,7 @@ class Program {
             Console.WriteLine("Počet číslic {0}",pocetcislic);
              Console.WriteLine("Počet samohlasek {0}",pocetSamohlasek);
              Console.WriteLine("Počet souhlasek {0}",pocetsouhlasek);
+             Console.WriteLine("Počet ostatních {0}",pocetostatnich);
 
 
 

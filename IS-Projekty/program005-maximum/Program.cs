@@ -55,32 +55,49 @@ Random randomnumber = new Random();
     Console.Write("{0}; ", myArray[i]);
 }
 
-    int max = myArray[0];
-    int min = myArray[0];
-    int maxIndex =0;
-    int minIndex =0;
-
-
-    
-    for(int i=1; i < n; i++){
-        if(myArray[i] > max){
-            max = myArray[i];
-            maxIndex = i;
+            int max = myArray[0];
+            int min = myArray[0];
+            int posMax = 0;
+            int posMin = 0;
             
 
+            for(int i=1 ; i < n; i++) {
+                if(myArray[i] > max) {
+                    max = myArray[i];
+                     posMax = i;
+                   
+
+                }
+
+                if(myArray[i] < min) {
+                    min = myArray[i];
+                    posMin = i;
+                    
+                }
+                
+            }
+
+
+        int pocetMax = 0;
+        int pocetMin=0;
+        for (int i = 0; i < n; i++)
+        {
+            if (myArray[i] == max)
+            {
+                pocetMax++;
+            }
+            else if (myArray[i] == min)
+            {
+                pocetMin++;
+            }
         }
-        if(myArray[i] < min){
-            min = myArray[i];
-            minIndex= i;
-
-        }
-    }
+            
 
 
 
+            Console.WriteLine("\n\nMaximum = {0}; První pozice max v poli: {1}, počet max {2}", max, posMax, pocetMax);
+            Console.WriteLine("Minimum = {0}; První pozice min v poli: {1}; počet min{2} ", min, posMin,pocetMin);
 
-    Console.WriteLine("\n\n Maximum={0};na pozici {1} ", max, maxIndex);
-        Console.WriteLine("\n\n Minimum{0} na pozici {1}", min, minIndex );
 
         Console.WriteLine();
 

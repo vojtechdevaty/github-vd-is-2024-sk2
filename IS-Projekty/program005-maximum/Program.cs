@@ -95,8 +95,8 @@ Random randomnumber = new Random();
 
 
 
-            Console.WriteLine("\n\nMaximum = {0}; První pozice max v poli: {1}, počet max {2}", max, posMax, pocetMax);
-            Console.WriteLine("Minimum = {0}; První pozice min v poli: {1}; počet min{2} ", min, posMin,pocetMin);
+            Console.WriteLine("\n\nMaximum = {0}; První pozice max v poli: {1}, počet max: {2}", max, posMax, pocetMax);
+            Console.WriteLine("Minimum = {0}; První pozice min v poli: {1}; počet min: {2} ", min, posMin,pocetMin);
 
 
         Console.WriteLine();

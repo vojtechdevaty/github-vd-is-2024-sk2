@@ -1,0 +1,15 @@
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\bin\Debug\net8.0\program012a-intervaly.exe
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\bin\Debug\net8.0\program012a-intervaly.deps.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\bin\Debug\net8.0\program012a-intervaly.runtimeconfig.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\bin\Debug\net8.0\program012a-intervaly.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\bin\Debug\net8.0\program012a-intervaly.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.AssemblyInfoInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.AssemblyInfo.cs
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.csproj.CoreCompileInputs.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.sourcelink.json
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\refint\program012a-intervaly.dll
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.pdb
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\program012a-intervaly.genruntimeconfig.cache
+C:\Users\VOJTA\Documents\is\github-vd-is-2024-sk2\github-vd-is-2024-sk2\IS-Projekty\program012a-intervaly\obj\Debug\net8.0\ref\program012a-intervaly.dll

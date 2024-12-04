@@ -48,8 +48,8 @@ class Program {
 
             int max = myArray[0];
             int min = myArray[0];
-            int pozmax;
-            int pozmin;
+            int pozmax = 0;
+            int pozmin= 0;
 
             for(int j=0;j<n; j++){
             if(myArray[j] > max){
@@ -64,10 +64,24 @@ class Program {
 
             int pocetMax = 0;
             int pocetMin = 0;
+            for (int j=0;j<n;j++){
+            if ( myArray[j] ==min ){
+
+                    pocetMin++;
+            }
+            else if ( myArray[j] ==max ){
+
+                    pocetMax++;
+            }
+
+
+
+            }
             
 
 
-            Console.WriteLine("Maximum je {0} na pozici {1}", max, pozmax);
+            Console.WriteLine("\n\nMaximum je {0} na pozici {1}  a je jich {2} ", max, pozmax+1, pocetMax);
+             Console.WriteLine("Minimum je {0} na pozici {1} a jejich je {2}", min, pozmin+1, pocetMin);
 
 
 

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\VOJTA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uzivatel\\Documents\\ZP-Devátý\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
+      "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
       "projectName": "program015a-kombinovana-uloha",
-      "projectPath": "C:\\Users\\Uzivatel\\Documents\\ZP-Devátý\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uzivatel\\Documents\\ZP-Devátý\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\obj\\",
+      "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
+      "packagesPath": "C:\\Users\\VOJTA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\VOJTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

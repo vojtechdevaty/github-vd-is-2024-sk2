@@ -10,7 +10,7 @@ class Program {
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("******************************");
-            Console.WriteLine("******* Název programu *******");
+            Console.WriteLine("*******kombinovaná uloha *******");
             Console.WriteLine("******************************");
             Console.WriteLine("******** Vojtěch Devátý*******");
             Console.WriteLine("******************************\n\n");
@@ -73,9 +73,6 @@ class Program {
 
                     pocetMax++;
             }
-
-
-
             }
             
 

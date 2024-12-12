@@ -65,9 +65,9 @@ static ulong vypocetNsn ( ulong a, ulong b, ulong nsd){
 static void zobrazitVysledky(ulong a, ulong b, ulong nsd, ulong nsn){
 
 Console.ForegroundColor = ConsoleColor.Magenta;
-Console.WriteLine ("NSD čísel {0} a {1} je {2}", a, b, nsd );
+Console.WriteLine ("NSN čísel {0} a {1} je {2}", a, b, nsd );
 Console.ForegroundColor = ConsoleColor.Yellow;
-Console.WriteLine ($"NSN čísel {a} a {b} je {nsn}");
+Console.WriteLine ($"NSD čísel {a} a {b} je {nsn}");
 Console.ForegroundColor = ConsoleColor.White;
 
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj": {}
+    "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj": {
+    "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj",
+        "projectUniqueName": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj",
         "projectName": "program012a-intervaly",
-        "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj",
-        "packagesPath": "C:\\Users\\VOJTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\obj\\",
+        "projectPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\program012a-intervaly.csproj",
+        "packagesPath": "C:\\Users\\vojta\\.nuget\\packages\\",
+        "outputPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program012a-intervaly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VOJTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

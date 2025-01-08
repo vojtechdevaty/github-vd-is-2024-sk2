@@ -1,0 +1,15 @@
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\bin\Debug\net9.0\program021.exe
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\bin\Debug\net9.0\program021.deps.json
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\bin\Debug\net9.0\program021.runtimeconfig.json
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\bin\Debug\net9.0\program021.dll
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\bin\Debug\net9.0\program021.pdb
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.GeneratedMSBuildEditorConfig.editorconfig
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.AssemblyInfoInputs.cache
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.AssemblyInfo.cs
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.csproj.CoreCompileInputs.cache
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.sourcelink.json
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.dll
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\refint\program021.dll
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.pdb
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\program021.genruntimeconfig.cache
+C:\is\github-vd-is-2024-sk2\IS-Projekty\program021\obj\Debug\net9.0\ref\program021.dll

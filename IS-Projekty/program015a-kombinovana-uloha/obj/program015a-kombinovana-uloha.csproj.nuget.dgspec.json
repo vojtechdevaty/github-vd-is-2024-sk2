@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {}
+    "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {
+    "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
+        "projectUniqueName": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
         "projectName": "program015a-kombinovana-uloha",
-        "projectPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
-        "packagesPath": "C:\\Users\\VOJTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOJTA\\Documents\\is\\github-vd-is-2024-sk2\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\obj\\",
+        "projectPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
+        "packagesPath": "C:\\Users\\vojta\\.nuget\\packages\\",
+        "outputPath": "C:\\is\\github-vd-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VOJTA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vojta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
